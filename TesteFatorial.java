@@ -1,5 +1,5 @@
 class TesteFatorial{
-    //Versao iterativa do caculo fatorial
+    //Comentar inserido
     public static void main(String [] args) {
         Fatorial fat = new Fatorial();
         int resultado = fat.calcularFatorial(0);
